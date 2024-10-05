@@ -4,7 +4,7 @@ The Tableau dashboards utilize the Superstore dataset to provide a comprehensive
 
 # Tableau_Project2
 
-In this analysis of the superstore dataset using tableau two dashboards provide key insights into sales performance. The first dashboard illustrates Sales by Category and Sub-Category through stacked visualizations highlighting trends and areas for potential growth. The second dashboard features a URL filter by state enabling users to focus on specific regional sales data for targeted analysis. Together these dashboards are incorporated into the "Sales Insights" story offering a comprehensive overview of sales dynamics, enhancing the decision-making process and facilitating strategic planning based on category-specific and geographic sales metrics.
+In this analysis of the superstore dataset using tableau two dashboards provide key insights into sales performance. The first category clarity dashboard illustrates Sales by Category and Sub-Category through stacked visualizations highlighting trends and areas for potential growth. The second regional overview dashboard features a URL filter by state enabling users to focus on specific regional sales data for targeted analysis. Together these dashboards are incorporated into the "Sales Insights" story offering a comprehensive overview of sales dynamics, enhancing the decision-making process and facilitating strategic planning based on category-specific and geographic sales metrics.
 
 # Tableau_Project3
 
